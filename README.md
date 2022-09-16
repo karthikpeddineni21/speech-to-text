@@ -2,12 +2,12 @@
 
 pip install SpeechRecognition
 
-To install pyaudio in macos run below two commands
+#### To install pyaudio in macos run below two commands
 
 brew install portaudio
 
 pip3 install pyaudio
 
-For windows
+#### For windows
 
 pip install pyaudio
